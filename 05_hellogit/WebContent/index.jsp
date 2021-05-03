@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello Git</title>
+<title>Hello Git Hello World Git Hub</title>
 </head>
 <body>
 	<h1>Hello Git Hello World</h1>
